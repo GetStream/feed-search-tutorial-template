@@ -16,13 +16,13 @@
 		"@graphql-tools/stitch": "^7.1.4",
 		"@stream-io/graphql-feeds": "0.1.0-alpha.6",
 		"algoliasearch": "^4.8.3",
-		"apollo-server": "^2.19.0",
+		"apollo-server": "^3.13.0",
 		"getstream": "^7.0.1",
-		"jsonwebtoken": "^8.5.1"
+		"jsonwebtoken": "^9.0.0"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.12.8",
-		"@babel/core": "^7.12.9",
+		"@babel/core": "^7.29.6",
 		"@babel/node": "^7.12.6",
 		"@babel/plugin-proposal-class-properties": "^7.12.1",
 		"@babel/plugin-transform-runtime": "^7.12.1",
